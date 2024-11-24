@@ -12,8 +12,8 @@ Desenvolvedor apaixonado por tecnologia com uma paixão por resolver problemas e
 </p>
 
 <p>
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=joopedriantos&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
-  <img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=joopedriantos&theme=radical" alt="Streak Stats" />
+  <img height="150" width="400" src="https://github-readme-stats.vercel.app/api?username=joopedriantos&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
+  <img height="150" align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=joopedriantos&theme=radical" alt="Streak Stats" />
 </p>
 
 ---
